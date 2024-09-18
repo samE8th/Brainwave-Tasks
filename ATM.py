@@ -5,7 +5,7 @@ from tkinter import messagebox
 '''Main window '''
 window = tk.Tk()
 window.title("ATM")
-window.configure(bg='blue2')
+window.configure(bg='light grey')
 
 
 
