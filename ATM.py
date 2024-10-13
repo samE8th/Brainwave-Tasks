@@ -4,8 +4,20 @@ from tkinter import messagebox
 
 '''Main window '''
 window = tk.Tk()
-window.title("ATM")
+window.title("Inventry Management System")
 window.configure(bg='light grey')
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
